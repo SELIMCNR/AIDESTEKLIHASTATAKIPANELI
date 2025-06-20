@@ -1,0 +1,7 @@
+pandas
+xgboost
+matplotlib
+tk
+scikit-learn
+joblib
+reportlab
