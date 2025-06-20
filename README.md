@@ -1,6 +1,4 @@
-Elbette Selim, işte senin sağlık verisi tahmini uygulaman için temiz ve etkili bir `README.md` örneği. Projeyi teknik olarak anlatır, nasıl çalıştırılacağını gösterir ve kullanıcıyı yönlendirir:
 
----
 
 ## 🏥 AI Destekli Hasta Takip Paneli
 
